@@ -23,14 +23,3 @@ else:
     st.markdown("### :violet[むらさきが好きなんだね！ 💜]")
 
 st.balloons()
-```
-
-**4. 下にスクロールして「変更をコミット」をクリック**
-
----
-
-### ステップ3: 公開する
-
-**1. Streamlit Cloudを開く**
-```
-https://share.streamlit.io/
